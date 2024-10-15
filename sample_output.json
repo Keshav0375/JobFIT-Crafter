@@ -1,0 +1,201 @@
+{
+    "name": "BHOLA",
+    "phone": "9638527416",
+    "email": "bholakamvy@gmail.com",
+    "linkedin": "",
+    "github": "",
+    "educations": {
+        "institutions": [
+            "Guru Nanak Dev Engineering College",
+            "Gujranwala Guru Nanak Public School",
+            ""
+        ],
+        "programs": [
+            "Bachelors of Technology in Computer Science and Engineering",
+            "Non-Medical",
+            ""
+        ],
+        "durations": [
+            "Sep 2020 - 2024",
+            "Mar 2019 - Mar 2020",
+            ""
+        ],
+        "marks": [
+            "SGPA-8.13",
+            "Percentage-90.83",
+            ""
+        ]
+    },
+    "skills": {
+        "technical_skills": [
+            "Python",
+            "SQL",
+            "C/C++",
+            "HTML",
+            "CSS",
+            "MySQL",
+            "PostgreSQL",
+            "Chroma DB",
+            "Pinecone",
+            "FAISS",
+            "AI",
+            "Machine learning",
+            "Deep learning",
+            "NLP",
+            "Computer Vision",
+            "Data Structures",
+            "Pipeline",
+            "Data Analysis",
+            "RAG"
+        ],
+        "tools/frameworks": [
+            "Git",
+            "GitHub",
+            "AWS",
+            "Azure",
+            "Flask",
+            "FAST API",
+            "Django",
+            "Power BI",
+            "AWS Bedrock",
+            "Azure OpenAI",
+            "Anaconda",
+            "Hugging Face",
+            "Llama2",
+            "Langchain",
+            "LLMs",
+            "OpenAI",
+            "Claude",
+            "Pandas",
+            "NumPy",
+            "Scikit-learn",
+            "NLTK",
+            "LangSmith",
+            "Streamlit",
+            "PyPDF2"
+        ],
+        "soft_skills": [
+            "Leadership",
+            "Persistent",
+            "Communication",
+            "Teamwork",
+            "Organized",
+            "Adaptability"
+        ],
+        "analytical_skills": [
+            "Analytical",
+            "Problem Solving",
+            "Algebra",
+            "Probability",
+            "Statistics",
+            "Calculus"
+        ],
+        "spoken_languages": []
+    },
+    "projects": {
+        "names": [
+            "Data Dialect",
+            "QueryQuill",
+            "Data-Driven Decision-Making Using Power BI Dashboard"
+        ],
+        "descriptions": [
+            [
+                "Our project integrates LangChain, OpenAI , LangSmith, and ChromaDB with Streamlit for intuitive NL2SQL conversational systems.",
+                "It employs few-shot learning, dynamic table selection, and example selection for enhanced database interaction."
+            ],
+            [
+                "Developed QueryQuill, an ATS-friendly chat solution using Azure OpenAI, LangChain retrieval chain, FastAPI, Streamlit, and PyPDF2 for advanced document processing, ensuring seamless querying with robust unit testing."
+            ],
+            [
+                "Leveraging Power Query and DAX, automated ETL processes for diverse data sources, ensuring data quality and integrity.",
+                "Designed insightful reports and dashboards."
+            ]
+        ],
+        "dates": [
+            "",
+            "",
+            ""
+        ],
+        "technologies": [
+            [
+                "LangChain",
+                "OpenAI",
+                "LangSmith",
+                "ChromaDB",
+                "Streamlit",
+                "NL2SQL"
+            ],
+            [
+                "Azure OpenAI",
+                "LangChain",
+                "FastAPI",
+                "Streamlit",
+                "PyPDF2"
+            ],
+            [
+                "Power BI",
+                "Power Query",
+                "DAX"
+            ]
+        ]
+    },
+    "experiences": {
+        "company_names": [
+            "Slideoo",
+            "REWORK AI",
+            "Sabudh Foundation"
+        ],
+        "positions": [
+            "AI ML Engineer",
+            "AI ML Engineer Intern",
+            "Data Science Intern"
+        ],
+        "descriptions": [
+            [
+                "Innovated AI-powered presentations, Documents and RAG systems at Slideoo, melding OpenAI, Azure, FastAPI, Claude and LangChain for cutting-edge design.",
+                "Mastered data scraping, dataset creation, and model fine-tuning at Slideoo. Leveraged these skills to optimize AI-driven presentations and documents, ensuring seamless functionality and user satisfaction.",
+                "Cultivated invaluable soft skills at Slideoo, including communication, teamwork, and adaptability. These qualities complement technical expertise, fostering effective collaboration and project success."
+            ],
+            [
+                "Pioneered document processing at Rework AI, optimizing text extraction for efficiency. Innovated techniques for streamlined data extraction, enhancing workflow effectiveness.",
+                "Developed production APIs on AWS at Rework AI, ensuring seamless integration. Cultivated soft skills including communication and collaboration, enhancing team dynamics for project success."
+            ],
+            [
+                "Led IDP project, utilizing OCR, ML, and NLP to automate document processing, reducing manual data entry by 60 percent and saving 100+ weekly hours.",
+                "Increased data extraction accuracy by 40% and processing speed by 50% through spearheading the IDP project."
+            ]
+        ],
+        "durations": [
+            "Apr 2024 - present",
+            "Feb 2024 - Apr 2024",
+            "Jul 2023 - Jan 2024"
+        ],
+        "locations": [
+            "",
+            "",
+            ""
+        ],
+        "technologies": [
+            [
+                "OpenAI",
+                "Azure",
+                "FastAPI",
+                "Claude",
+                "LangChain"
+            ],
+            [
+                "AWS"
+            ],
+            [
+                "OCR",
+                "ML",
+                "NLP"
+            ]
+        ],
+        "achievements": [
+            "",
+            "",
+            "Reduced manual data entry by 60 percent and saved 100+ weekly hours. Increased data extraction accuracy by 40% and processing speed by 50%."
+        ]
+    }
+}
